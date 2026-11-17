@@ -1,0 +1,7 @@
+# Датасет скачивается скриптом и в Git не хранится
+data/
+# Результаты быстрой проверки (--quick)
+results_quick/
+__pycache__/
+.ipynb_checkpoints/
+.venv/
